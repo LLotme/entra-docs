@@ -1,6 +1,7 @@
 ---
 
 title: Leave an Organization
+
 titleSuffix: Microsoft Entra External ID
 description: As a B2B collaboration user, learn how to leave an organization if you no longer need guest user access to apps. If you're an admin, see how to allow external users to leave.
 
