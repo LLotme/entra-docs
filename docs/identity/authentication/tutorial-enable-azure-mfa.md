@@ -1,4 +1,4 @@
----
+--- 
 title: Enable Microsoft Entra multifactor authentication
 description: In this tutorial, you learn how to enable Microsoft Entra multifactor authentication for a group of users and test the secondary factor prompt during a sign-in event.
 
