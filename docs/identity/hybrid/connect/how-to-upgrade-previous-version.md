@@ -1,4 +1,4 @@
----
+--- 
 title: 'Microsoft Entra Connect: Upgrade from a previous version'
 description: Explains the different methods to upgrade to the latest release of Microsoft Entra Connect, including an in-place upgrade and a swing migration.
 
