@@ -65,7 +65,7 @@ You can use the **Data Collectors** dashboard in Permissions Management to view 
     When your changes are saved, the following message displays: **Successfully updated configuration.**
 
 ## Delete a data collector
-
+ 
 1. Select the ellipses **(...)** at the end of the row in the table.
 1. Select **Delete Configuration**.
 
